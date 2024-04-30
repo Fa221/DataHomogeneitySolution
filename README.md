@@ -52,7 +52,7 @@ File Structure
 
 Credits
 
-    Author: Faraz Akbar, Sahil Gulati, Rand Alaqeel
+    Author: Faraz, Sahil, Rand
 
 Links to Data Set
 https://datasets.activeloop.ai/docs/ml/datasets/mnist/
