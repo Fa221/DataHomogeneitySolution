@@ -53,3 +53,7 @@ File Structure
 Credits
 
     Author: Faraz Akbar, Sahil Gulati, Rand Alaqeel
+
+Links to Data Set
+https://datasets.activeloop.ai/docs/ml/datasets/mnist/
+https://datasets.activeloop.ai/docs/ml/datasets/usps-dataset/
