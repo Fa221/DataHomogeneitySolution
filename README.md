@@ -18,7 +18,7 @@ pip install numpy tensorflow deeplake scikit-learn
 
 Usage
 
-    Clone the repository:
+    git clone https://github.com/Fa221/DataHomogeneitySolution.git
 
 bash
 
@@ -28,13 +28,13 @@ git clone https://github.com/your_username/your_repository.git
 
 bash
 
-cd your_repository
+cd DataHomogeneitySolution
 
     Run the code:
 
 bash
-
-python federated_learning.py
+python3 DataHeterogeneityFix.py
+python3 DataHeterogeneityProblem.py
 
 Description
 
