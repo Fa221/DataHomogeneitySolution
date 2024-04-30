@@ -18,6 +18,14 @@ pip install numpy tensorflow deeplake scikit-learn
 
 Usage
 
+    Clone the repository:
+
+bash
+
+git clone https://github.com/your_username/your_repository.git
+
+    Navigate to the repository directory:
+
 bash
 
 cd your_repository
@@ -26,8 +34,7 @@ cd your_repository
 
 bash
 
-python3 DataHeterogeneityFix.py
-python3 DataHeterogeneityProblem.py
+python federated_learning.py
 
 Description
 
@@ -43,10 +50,9 @@ The code implements federated learning with the following steps:
 
 File Structure
 
-    DataHeterogeneityFix.py: Main script for the fix to Data Heterogeneity
-    DataHeterogeneityProblem.py: Script used to gauge efficacy of the fix
+    federated_learning.py: Main script for federated learning.
     README.md: This file, providing an overview of the project.
 
 Credits
 
-    Author: Faraz Akbar, Sahil Gulati, Rand Alaqeel
+    Author: Your Name
