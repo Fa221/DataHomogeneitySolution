@@ -1,4 +1,4 @@
-Federated Learning with USPS and MNIST Datasets
+# Federated Learning with USPS and MNIST Datasets
 
 This repository contains code for implementing federated learning using USPS and MNIST datasets. Federated learning is a machine learning approach that trains an algorithm across multiple decentralized edge devices (or servers) holding local data samples, without exchanging them. This technique enables privacy preservation and reduces the need for data centralization.
 Requirements
